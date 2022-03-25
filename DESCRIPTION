@@ -1,0 +1,10 @@
+Package: mathmagic
+Type: Package
+Title: This package contains functions that perform math tricks
+Version: 0.0.0.9000
+Author: Shannon Fischer
+Maintainer: fischer132@usf.edu
+Description: This package contains several functions that perform "math magic" or "number tricks". This is when you pick a number within a set of parameters, perform a series of calculations on that number, and it will have a specific result. This package is meant for entertainment purposes.
+License: GNU
+Encoding: UTF-8
+LazyData: true
