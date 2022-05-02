@@ -1,34 +1,11 @@
 Package: mathmagic
 Type: Package
 Title: This package contains functions that perform math tricks
-Version: 0.0.0.9000
+Version: 0.0.1.0
 Author: Shannon Fischer
-Maintainer: fischer132@usf.edu
-Description: This package contains several functions that perform "math magic" or "number tricks".
-This is when you pick a number within a set of parameters, perform a series of calculations on that number,
-and it will have a specific result. This package is meant for entertainment purposes. These functions were 
-created base off https://www.thoughtco.com/math-tricks-that-will-blow-your-mind-4154742 and https://www.educationworld.com/a_curr/mathchat/mathchat012.shtml.
-
-Functions;
-
-Thought CO. # 1
-mm1 - If you multiply 6 by an even, single digit number greater that zero, the answer will end with the same digit. 
-The number in the ten's place will be half of the number in the one's place. 
-
-Thought CO. # 4
-mm2 - Take any three-digit number and write it twice to make a six-digit number. Divide the number by 7. 
-Divide it by 11. Divide it by 13.The order in which you do the division is unimportant. 
-The answer is the three-digit number. 
-
-Thought CO. # 7
-mm3 - Select a number from 1 to 6. Multiply the number by 9. Multiply it by 111. Multiply it by 1001.
-Divide the answer by 7. The number will contain the digits 1, 2, 4, 5, 7, and 8.  
-
-Education World # 5
-mm4 - Here is a magic number: 12,345,679. Pick a number from 1 to 9. Multiply your number by 9.
-Multiply the magic number by your new number. The result is a string of nine digits made up entirely of
-your starting number.
-
+Maintainer: <fischer132@usf.edu>
+Description: This package contains several functions that perform "math magic" or "number tricks".This is when you pick a number within a set of parameters, perform a series of calculations on that number, and it will have a specific result. This package is meant for entertainment purposes. 
 License: GNU
 Encoding: UTF-8
 LazyData: true
+RoxygenNote: 7.1.2
